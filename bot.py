@@ -1,28 +1,10 @@
-import discord, os, requests, random, string, asyncio
+# Credit to Pineapple#1000 and MOLE#2165 On Discord
+
+import discord, os, asyncio
 
 from discord.ext import commands
 
 from colorama import Fore, Style
-
-import urllib
-
-import urllib.request
-
-import subprocess
-
-import random
-
-import re
-
-import time
-
-import os
-
-import string
-
-import contextlib
-
-import io
 
 token = "your token here"
 
