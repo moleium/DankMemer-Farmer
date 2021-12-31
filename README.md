@@ -44,4 +44,6 @@ To make the bot log into your account you need your Discord Token.
 </a>
 - - - -
 
-# Running The Bot
+# Libraries
+**First, You Need to install the Required Modules:**
+### Windows/Linux:
