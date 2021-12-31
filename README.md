@@ -47,3 +47,45 @@ To make the bot log into your account you need your Discord Token.
 # Libraries
 **First, You Need to install the Required Modules:**
 ### Windows/Linux:
+* Open CMD or Terminal
+* Execute These Commands:<br>
+`pip install Discord`<br>
+`pip install colorama`
+### Android:
+* Open Pydroid3
+* Click <img src="https://i.ibb.co/1XvwrKJ/IMG-20211231-123644.jpg" width="25" height="20"> and Click Pip
+* Download <a href="https://play.google.com/store/apps/details?id=ru.iiec.pydroid3.quickinstallrepo">Repository Plugin</a> From Google Play
+* Go to `Install` Section
+* Type `Discord` and Click `INSTALL` After `Complete` Message Appear, Move to Next Step.
+* Type `colorama` and Click `INSTALL` And Wait the Complete Message.
+
+
+# Running The Bot
+### Windows/Linux:
+* CD into the Files you Downloaded From This Repo (Adter Unzipping) Using
+`cd DankMemer-Farmer`
+* Then edit `bot.py` file using any text editor to add your token between the `''` in `token = ''`, Then Save It.
+* Run the Bot `python bot.py`
+### Android:
+* Open Pydroid3
+* Click Open File
+* Open `bot.py` file you already downloaded
+* Add your token in `token = ''` between `''` 
+* Now Click the Run Button!
+
+**If You see `You are Online` Message, That Means The Bot is Online!
+
+# Farming
+* Open Discord and Make a Server for Farming And Invite <a href="https://dankmemer.lol/">Dank Memer</a>
+* Buy a Shovel and Fishing rod and Rifle From Dank Memer Shop.
+* Type in the chat `?dankfarm` and send, then type `?dankmemer` and send it.<br>
+**Now Tou can see That the bot is auto-farming for you!**
+
+## NOTE:
+**You Can use hosting services like Heroku to host the bot 24/7 for more profit.**
+
+# Credit:
+#### Pineapple#1000 <a href="https://github.com/PineappleFin">Github Page</a>
+#### MOLE#2165 <a href="https://github.com/MoleTheDev">Github Page</a>
+
+
