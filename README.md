@@ -82,6 +82,6 @@ To make the bot log into your account you need your Discord token.
 
 # Credit:
 #### Pineapple#1000 <a href="https://github.com/PineappleFin">Github Page</a>
-#### MOLE#2165 <a href="https://github.com/MoleTheDev">Github Page</a> .
+#### MOLE#2165 <a href="https://github.com/MoleTheDev">Github Page</a>.
 
 
