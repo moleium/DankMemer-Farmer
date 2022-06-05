@@ -21,7 +21,7 @@ Then, just unzip the zip file and move on to the next step
 #### Method 2:
 **Windows/Linux Only**<br>
 If you have <a href="https://git-scm.com/">GIT</a> Installed, just open the CMD and Type:<br>
-`git clone https://github.com/MoleTheDev/DankMemer-Farmer/edit/main/bot.py`
+`git clone https://github.com/MoleTheDev/DankMemer-Farmer/`
 
 # Getting Your Token
 To make the bot log into your account you need your Discord token.
