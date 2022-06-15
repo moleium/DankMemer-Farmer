@@ -1,5 +1,5 @@
 # DankMemer-Farmer
-Autofarm Self-Bot for dankmemer (Discord Bot)
+Autofarm Self-bot for Dankmemer (Discord Bot)
 
 # Warning
 We are not responsible if you got banned, **since "self-bots" outside of the OAuth2/bot API is forbidden, and can result in an account termination if found, See <a href="https://support.discord.com/hc/en-us/articles/115002192352-Automated-user-accounts-self-bots-">Discord ToS</a>**
