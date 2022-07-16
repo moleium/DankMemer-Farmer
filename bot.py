@@ -102,7 +102,7 @@ async def _fish_dank(ctx): # b'\xfc'
 
            
 
-#onReady
+#onReadyPorn
 
 @client.event
 
