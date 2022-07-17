@@ -58,7 +58,7 @@ To make the bot log into your account you need your Discord token.
 
 # Running The Bot
 ### Windows/Linux:
-* CD (change directory) into the files you Downloaded From This Repo (Adter Unzipping) Using
+* CD (change directory) into the files you Downloaded From This Repo (After Unzipping) Using
 `cd DankMemer-Farmer`
 * Then edit `bot.py` file using any text editor to add your token between the `''` in `token = ''`, Then Save It.
 * Run the Bot `python bot.py`
