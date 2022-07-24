@@ -1,5 +1,3 @@
-# Credit to Pineapple#1000 and MOLE#2165 On Discord
-
 import discord, os, asyncio
 from discord.ext import commands
 from colorama import Fore, Style
