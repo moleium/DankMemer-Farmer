@@ -1,9 +1,7 @@
 # Credit to Pineapple#1000 and MOLE#2165 On Discord
 
 import discord, os, asyncio
-
 from discord.ext import commands
-
 from colorama import Fore, Style
 
 token = "your token here"
@@ -12,38 +10,25 @@ token = "your token here"
 
 prefix = "?"
 
-def endSong(guild, path):
-
-    os.remove(path)
-
 #Clear Command
-
 def Clear():
 
     os.system('clear')
 
 #Colors
-
 def RandomColor():
-
     randcolor = discord.Color(random.randint(0x000000, 0xFFFFFF))
-
     return randcolor
 
 def RandString():
-
     return "".join(random.choice(string.ascii_letters + string.digits) for i in range(random.randint(14, 32)))
 
-#Prefix
-
+# Prefix
 client = discord.Client()
-
 client = commands.Bot(command_prefix=prefix,self_bot=True)
 
-#Dep
-
+#D ep
 @client.command(name='dankmemer', aliases=['dank', 'dmc'])
-
 async def dankmemer(ctx):
 
     await ctx.message.delete()
@@ -71,9 +56,7 @@ async def dankmemer(ctx):
             print(f"{Fore.RED}[ERROR]: {Fore.YELLOW}{e}"+Fore.RESET)
 
 #Farm
-
 @client.command(name='dank-farm', aliases=['dankfarm'])
-
 async def _fish_dank(ctx): # b'\xfc'
 
     await ctx.message.delete()
@@ -101,11 +84,7 @@ async def _fish_dank(ctx): # b'\xfc'
             print(f"{Fore.RED}[ERROR]: {Fore.YELLOW}{e}"+Fore.RESET)
 
            
-
-#onReady
-
 @client.event
-
 async def on_ready():
 
 	print(f"You are Online :)")
