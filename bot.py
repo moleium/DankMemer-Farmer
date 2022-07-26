@@ -1,6 +1,8 @@
 import discord, os, asyncio
 from discord.ext import commands
 from colorama import Fore, Style
+import random
+import string
 
 token = "your token here"
 
