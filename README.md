@@ -14,8 +14,8 @@ We are not responsible if you got **banned**, **since "self-bots"** outside of t
 
 ### Windows/Linux/Android:
 #### Method 1:
-Simply, dowload This repository by following these steps:
-<img src="https://cpb-us-e1.wpmucdn.com/sites.northwestern.edu/dist/b/3044/files/2021/05/github.png" width="340" height="230">
+Dowload This repository by following these steps:
+<br><img src="https://cpb-us-e1.wpmucdn.com/sites.northwestern.edu/dist/b/3044/files/2021/05/github.png" width="340" height="230"><br>
 Then, just unzip the zip file and move on to the next step
 
 #### Method 2:
@@ -29,13 +29,12 @@ To make the bot log into your account you need your Discord token.
 ### How to Get it?
 ### Windows/Linux:
 **Click the image and follow the video instructions:**
-<a href="https://youtu.be/YEgFvgg7ZPI">
+<br><a href="https://youtu.be/YEgFvgg7ZPI">
 <img src="https://i.ytimg.com/vi/YEgFvgg7ZPI/maxresdefault.jpg" width="340" height="230">
 </a>
 - - - -
 ### Android:
-**Simply, click the image And follow the video instructions:**
-<a href="https://www.youtube.com/watch?v=dQ_pwJwYg7c">
+<br><a href="https://www.youtube.com/watch?v=dQ_pwJwYg7c">
 <img src="https://i.ytimg.com/vi/YEgFvgg7ZPI/maxresdefault.jpg" width="340" height="230">
 </a>
 - - - -
