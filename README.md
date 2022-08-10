@@ -3,6 +3,8 @@ Autofarm Self-Bot for Dankmemer (Discord Bot)
 
 # FAQ
 We are not responsible if you got **banned**, **since "self-bots"** outside of the OAuth2/bot API is **forbidden**, and can result in an account termination if found, **Although Discord didn't take an action**. See <a href="https://support.discord.com/hc/en-us/articles/115002192352-Automated-user-accounts-self-bots-">Discord ToS</a>
+<hr>
+I'm (me) just the poster of the code, all the rights for Pineapple.
 
 # Requirements
 * PC or Laptop or Android (we are going to explain installation on every platform).
