@@ -3,8 +3,6 @@ Autofarm Self-Bot for Dankmemer (Discord Bot)
 
 # FAQ
 We are not responsible if you got **banned**, **since "self-bots"** outside of the OAuth2/bot API is **forbidden**, and can result in an account termination if found, **Although Discord didn't take an action**. See <a href="https://support.discord.com/hc/en-us/articles/115002192352-Automated-user-accounts-self-bots-">Discord ToS</a>
-<hr>
-I'm (me) just the poster of the code, all the rights for Pineapple.
 
 # Requirements
 * PC or Laptop or Android (we are going to explain installation on every platform).
@@ -82,7 +80,7 @@ To make the bot log into your account you need your Discord token.
 **You can use hosting services like Heroku to host the bot 24/7 for more profit.**
 
 # Credit:
-#### Pineapple#1000 <a href="https://github.com/PineappleFin">Github page</a>
-#### MOLE#2165 or MOLE#6846 <a href="https://github.com/MoleTheDev">Github page</a>.
+#### Pineapple#1000         - Coder <a href="https://github.com/PineappleFin">Github page</a>
+#### MOLE#2165 or MOLE#6846 - Repo maintainer <a href="https://github.com/MoleTheDev">Github page</a>.
 
 
