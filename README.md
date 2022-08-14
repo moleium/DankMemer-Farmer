@@ -80,7 +80,7 @@ To make the bot log into your account you need your Discord token.
 **You can use hosting services like Heroku to host the bot 24/7 for more profit.**
 
 # Credit:
-#### Pineapple#1000         - Coder <a href="https://github.com/PineappleFin">Github page</a>
-#### MOLE#2165 or MOLE#6846 - Repo maintainer <a href="https://github.com/MoleTheDev">Github page</a>.
+#### Pineapple#1000         - Coder <a href="https://github.com/PineappleFin">profile</a>
+#### MOLE#2165 or MOLE#6846 - Repo maintainer
 
 
