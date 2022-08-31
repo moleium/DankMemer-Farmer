@@ -1,6 +1,13 @@
 # DankMemer-Farmer
 Autofarm Self-Bot for Dankmemer (Discord Bot)
 
+# Discord Update
+[Discord](https://support-dev.discord.com/hc/en-us/articles/6025578854295-Why-We-Moved-to-Slash-Commands) recently has moved to slash commands and already forcing bots that are in over 75 servers to use slash commands.<br>
+**Unfortunately**, Dankmemer bot is also impacted by this ridiculous decision. How?<br>
+Currently, Discord.py has no function that permits a bot (or a self-bot) to use another bot slash command,<br>
+This means this bot (and others) are outdated, for now, you can't use the ```pls``` command anymore, only slash commands.
+<br><br>So **This self-bot is outdated for now till we find another way to interact with other bots' slash commands.**
+
 # FAQ
 We are not responsible if you got **banned**, **since "self-bots"** outside of the OAuth2/bot API is **forbidden**, and can result in an account termination if found, **Although Discord didn't take an action against those who broke this term**. See <a href="https://support.discord.com/hc/en-us/articles/115002192352-Automated-user-accounts-self-bots-">Discord ToS</a>
 
