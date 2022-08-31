@@ -88,6 +88,4 @@ To make the bot log into your account you need your Discord token.
 
 # Credit:
 #### - Coder -> Pineapple#1000 <a href="https://github.com/PineappleFin">profile</a>
-#### - Repo maintainer -> Mole
-
-
+#### - Repo maintainer & Stupid Code Remover -> Mole
