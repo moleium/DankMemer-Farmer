@@ -1,91 +1,24 @@
 # DankMemer-Farmer
-Autofarm Self-Bot for Dankmemer (Discord Bot)
+Dankmemer Autofarm Self-Bot
 
 # Discord Update
-[Discord](https://support-dev.discord.com/hc/en-us/articles/6025578854295-Why-We-Moved-to-Slash-Commands) recently has moved to slash commands and already forcing bots that are in over 75 servers to use slash commands.<br>
-**Unfortunately**, Dankmemer bot is also impacted by this ridiculous decision. How?<br>
-Currently, Discord.py has no function that permits a bot (or a self-bot) to use another bot slash command,<br>
-This means this bot (and others) are outdated, for now, you can't use the ```pls``` command anymore, only slash commands.
-<br><br>So **This self-bot is outdated for now till we find another way to interact with other bots' slash commands.**
+After Discord's stupid action of moving to slash commands this impacted DankMemer bot and it moved to slash commands only :D. I had to implement a way to interact with slash commands because Discord.py didn't had this ability yet;<br><br>
+Gratitude to issue#07 for providing a hint for indicating a way to trigger slash commands.<br>**This bot now can interact with the new DankMemer commands procedure!**
 
 # FAQ
-We are not responsible if you got **banned**, **since "self-bots"** outside of the OAuth2/bot API is **forbidden**, and can result in an account termination if found, **Although Discord didn't take an action against those who broke this term**. See <a href="https://support.discord.com/hc/en-us/articles/115002192352-Automated-user-accounts-self-bots-">Discord ToS</a>
+We are not responsible if you got **banned**, **since "self-bots"** outside of the OAuth2/bot API is **forbidden**, and can result in account termination if found, **Although Discord didn't take an action against those who broke this term**. See <a href="https://support.discord.com/hc/en-us/articles/115002192352-Automated-user-accounts-self-bots-">Discord ToS</a>
 
-# Requirements
-* PC or Laptop or Android (we are going to explain installation on every platform).
+# Prerequisites
+* Python 3. X (3.9 favored)
+* [Discord.py Module](https://pypi.org/project/discord.py/)
+* [Requests Module](https://pypi.org/project/requests/)
 
-* Python <a href="">Download Here</a> (for PC and Laptop).<br>
-**If you are using Mobile then use this <a href="https://play.google.com/store/apps/details?id=ru.iiec.pydroid3">app</a>**
+# Configuration
+Open ```config.json``` and configure it however you like, It's not that demanding
+<img src="https://i.ibb.co/X8MMFpN/explain.png">
 
-# Installation
+# Starting Up
+Just run ```bot.py``` Duh >w<
 
-### Windows/Linux/Android:
-#### Method 1:
-Dowload This repository by following these steps:
-<br><img src="https://cpb-us-e1.wpmucdn.com/sites.northwestern.edu/dist/b/3044/files/2021/05/github.png" width="340" height="230"><br>
-Then, just unzip the zip file and move on to the next step
-
-#### Method 2:
-**Windows/Linux Only**<br>
-If you have <a href="https://git-scm.com/">GIT</a> Installed, just open the CMD and Type:<br>
-`git clone https://github.com/MoleTheDev/DankMemer-Farmer/`
-
-# Getting Your Token
-To make the bot log into your account you need your Discord token.
-- - - -
-### How to Get it?
-### Windows/Linux:
-**Click the image and follow the video instructions:**
-<br><a href="https://youtu.be/YEgFvgg7ZPI">
-<img src="https://i.ytimg.com/vi/YEgFvgg7ZPI/maxresdefault.jpg" width="340" height="230">
-</a>
-- - - -
-### Android:
-<br><a href="https://www.youtube.com/watch?v=dQ_pwJwYg7c">
-<img src="https://i.ytimg.com/vi/YEgFvgg7ZPI/maxresdefault.jpg" width="340" height="230">
-</a>
-- - - -
-
-# Libraries
-**First, You need to install the required modules:**
-### Windows/Linux:
-* Open CMD or Terminal
-* Execute These Commands:<br>
-`pip install Discord`<br>
-`pip install colorama`
-### Android:
-* Open Pydroid3
-* Click <img src="https://i.ibb.co/1XvwrKJ/IMG-20211231-123644.jpg" width="25" height="20"> and Click Pip
-* Download <a href="https://play.google.com/store/apps/details?id=ru.iiec.pydroid3.quickinstallrepo">Repository Plugin</a> From Google Play
-* Go to `Install` section
-* Type `Discord` and Click `INSTALL` After `Complete` Message Appear, Move to Next Step.
-* Type `colorama` and Click `INSTALL` And Wait the Complete Message.
-
-
-# Running The Bot
-### Windows/Linux:
-* CD (change directory) into the files you Downloaded From This Repo (After Unzipping) Using
-`cd DankMemer-Farmer`
-* Then edit `bot.py` file using any text editor to add your token between the `''` in `token = ''`, Then Save It.
-* Run the Bot `python bot.py`
-### Android:
-* Open Pydroid3
-* Click Open File
-* Open `bot.py` file you already downloaded
-* Add your token in `token = ''` between `''` 
-* Now click the run button.
-
-**If you see `You are Online` Message, that means the Bot is up and running!
-
-# Farming
-* Open Discord and make a server for farming and invite <a href="https://dankmemer.lol/">Dank Memer</a>
-* Buy a shovel and fishing rod and rifle From Dank Memer shop.
-* Type in the chat `?dankfarm` and send it, then type `?dankmemer` and send it.<br>
-**Now you can see That the bot is farming for you!**
-
-## NOTE:
-**You can use hosting services like Heroku to host the bot 24/7 for more profit.**
-
-# Credit:
-#### - Coder -> Pineapple#1000 <a href="https://github.com/PineappleFin">profile</a>
-#### - Repo maintainer & Stupid Code Remover -> Mole
+### Extra
+I apologize for the retarded code in ```slashCommands.py``` because I don't have the inspiration to make 1 function that handles all commands :D
