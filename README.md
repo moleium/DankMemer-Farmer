@@ -19,7 +19,7 @@ Open ```config.json``` and configure it however you like, It's not that demandin
 <img src="https://i.ibb.co/X8MMFpN/explain.png">
 
 # Starting Up
-Just run ```bot.py``` Duh >w<
+Just run ```bot.py``` and use ```?farm``` to start farming, run with ```True``` parameter for auto-deposit, Duh >w<
 
 ### Extra
-I apologize for the retarded code in ```slashCommands.py``` because I don't have the inspiration to make 1 function that handles all commands :D
+I apologize (to your eyes) for the retarded code in ```slashCommands.py``` because I don't have the inspiration to make 1 function that handles all commands :D
