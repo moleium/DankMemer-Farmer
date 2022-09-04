@@ -1,5 +1,5 @@
 # DankMemer-Farmer
-Dankmemer Autofarm Self-Bot
+DankMemer Auto-Farm Self-Bot
 
 # Discord Update
 After Discord's stupid action of moving to slash commands this impacted DankMemer bot and it moved to slash commands only :D. I had to implement a way to interact with slash commands because Discord.py didn't had this ability yet;<br><br>
