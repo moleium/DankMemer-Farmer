@@ -11,8 +11,10 @@ We are not responsible if you got **banned**, **since "self-bots"** outside of t
 # Prerequisites
 * Brain
 * Python 3. X (3.9 favored)
-* [Discord.py Module](https://pypi.org/project/discord.py/)
-* [Requests Module](https://pypi.org/project/requests/)
+* [Discord.py module](https://pypi.org/project/discord.py/)
+* [Requests module](https://pypi.org/project/requests/)
+* [Colorama](https://pypi.org/project/colorama/)
+* [Websocket-client](https://pypi.org/project/websocket-client/)
 
 # Configuration
 Open ```config.json``` and configure it however you like, It's not that demanding
