@@ -9,8 +9,8 @@ Gratitude to issue#07 for providing a hint for indicating a way to trigger slash
 I'm not responsible if you got **banned**, **since "self-bots"** outside of the OAuth2/bot API is **forbidden**, and can result in account termination if found, **Although Discord didn't take an action against those who broke this term**. See <a href="https://support.discord.com/hc/en-us/articles/115002192352-Automated-user-accounts-self-bots-">Discord ToS</a>
 
 # Prerequisites
-* Brain
-* Python 3. X (3.9 favored)
+* [Brain](https://en.m.wikipedia.org/wiki/Human_brain)
+* Python 3.X (3.9 favored)
 * [Discord.py module](https://pypi.org/project/discord.py/)
 * [Requests module](https://pypi.org/project/requests/)
 * [Colorama](https://pypi.org/project/colorama/)
