@@ -11,8 +11,8 @@ I'm not responsible if you got **banned**, **since "self-bots"** outside of the 
 # Prerequisites
 * [Brain](https://en.m.wikipedia.org/wiki/Human_brain)
 * Python 3.X (3.9 favored)
-* [Discord.py module](https://pypi.org/project/discord.py/)
-* [Requests module](https://pypi.org/project/requests/)
+* [Discord.py](https://pypi.org/project/discord.py/1.7.3) *v1.7.3*
+* [Requests](https://pypi.org/project/requests/)
 * [Colorama](https://pypi.org/project/colorama/)
 * [Websocket-client](https://pypi.org/project/websocket-client/)
 
