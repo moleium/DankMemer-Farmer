@@ -1,6 +1,9 @@
 # DankMemer-Farmer
 DankMemer Auto-Farm Self-Bot
 
+### Sat, Sep, 24
+Currently Outdated
+
 ## Discord Update
 After Discord's stupid action of moving to slash commands this impacted DankMemer bot and it moved to slash commands only :D. I had to implement a way to interact with slash commands because Discord.py didn't had this ability yet;<br><br>
 Gratitude to issue#07 for providing a hint for indicating a way to trigger slash commands.<br>**This bot now can interact with the new DankMemer commands procedure!**
