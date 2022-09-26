@@ -1,7 +1,7 @@
 {
-    "token": "",
-    "guild_id": "",
-    "channel_id": "",
+    "token": "Mjk1OTI5MTQwNDU1MDE0NDAx.Gg6ciN.wr46h5UoGhPfe0S4zUUSyj6ApLy8cNzNuQ1CpI",
+    "guild_id": "990068059995779112",
+    "channel_id": "1014414411248713789",
 
     "dankCommands": {
         "fish": "1011560371078832206",
@@ -10,4 +10,3 @@
         "hunt": "1011560371171102760"
     }
 }
-
