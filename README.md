@@ -2,7 +2,8 @@
 DankMemer Auto-Farm Self-Bot (supports slash commands)
 
 ## FAQ
-We are not responsible if you got banned since self-bots are against Discord TOS.
+Since discord.py doesn't support self-bots anymore, I re-wrote this bot to use discord.js-selfbot. also<br>
+I'm are not responsible if you got banned since self-bots are against Discord TOS.
 
 ## Commands
 - `farm` - Start farming.
