@@ -2,7 +2,7 @@ const clc = require("cli-color")
 const fs = require('fs');
 
 // Laod Config
-const LoadConfig = fs.readFileSync('../config.json');
+const LoadConfig = fs.readFileSync('./config.json');
 
 // Load Elements
 const config = JSON.parse(LoadConfig)

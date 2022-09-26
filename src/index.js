@@ -1,7 +1,6 @@
 const { Client } = require('discord.js-selfbot-v13');
 const fs = require('fs');
 const { configs, colors } = require("./init"); // Initlization File
-const farm = require("./commands/farm");
 const { execute } = require('./commands/farm');
 
 const client = new Client({
