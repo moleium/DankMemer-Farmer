@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.6.15",
+    "dotenv": "^16.0.3",
+    "winston": "^3.8.2"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
