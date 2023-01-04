@@ -5,8 +5,6 @@ A Discord self-bot that allows you to automate DankMemer tasks. It supports mult
 ## Prerequisites
 
 - Node.js v12 or higher
-- discord.js-selfbot-v13
-- Winston
 
 ## Installation
 
@@ -16,7 +14,7 @@ git clone https://github.com/MoleTheDev/DankMemer-Farmer.git
 ```
 2. Install dependencies using:<br>
 ```sh
-npm install discord.js-selfbot-v13 winston
+npm install discord.js-selfbot-v13 winston dotenv
 ```
 3. Configure using `config.json` file or using `.env`
 4. Start the bot:<br>
