@@ -10,7 +10,7 @@ A Discord self-bot that allows you to automate DankMemer tasks. It supports mult
 
 1. Clone the repository:<br>
 ```sh
-git clone https://github.com/MoleTheDev/DankMemer-Farmer.git
+git clone https://github.com/MoleSchizo/DankMemer-Farmer.git
 ```
 2. Install dependencies using:<br>
 ```sh
